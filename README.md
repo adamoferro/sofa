@@ -8,7 +8,7 @@ Using this focuser it is possible to obtain new SHARAD products with possible be
 
 ### Want to host SOFA?
 
-If you wish to host SOFA on your web server to provide an online focusing didactic tool, contact me on www.af-projects.it and we may collaborate!
+If you wish to host SOFA on your web server to provide an online radar sounder focusing didactic tool, contact me on www.af-projects.it and we may collaborate!
 
 ### Usage
 

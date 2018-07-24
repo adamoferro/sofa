@@ -133,7 +133,6 @@ if __name__ == "__main__":
     dms_image[combined_max_power_image<noise_thr]=np.nan
     
     
-    
-#    combined_max_power_image=images_all[0,:,:]
+
     io.write_gtiff_f32(OUTPUT_PREFIX+"max-power"+SUFFIX,combined_max_power_image,debug_mode=True)    
     io.write_gtiff_f32(OUTPUT_PREFIX+"slope"+SUFFIX,dms_image,debug_mode=True)

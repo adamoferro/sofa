@@ -6,7 +6,7 @@ The focusing algorithm is inspired by the one developed and described by the U.S
 
 Using this focuser it is possible to obtain new SHARAD products with possible better characteristics than those usually published on the PDS. Some applications are better documented on http://af-projects.it and the related code is available on this same repository.
 
-NOTE: This project has not been developed during my work at the University of Trento, nor it has been supported by the University of Trento in any way.
+**NOTE:** *This project has not been developed during my work at the University of Trento, nor it has been supported by the University of Trento in any way.*
 
 ### Want to host SOFA?
 
